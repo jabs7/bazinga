@@ -1,4 +1,4 @@
-Feature: User login inability
+Feature: User login failure
 Scenario: As a pizzahut user, If I have the wrong password can I log into the site.
 
 #LOGIN
